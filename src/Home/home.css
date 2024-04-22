@@ -1,0 +1,46 @@
+.banner {
+    background-image: url('../assets/img/background-01.jpg');
+    background-size:cover;
+    background-position: center;
+    width: 100%;
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode:darken;
+}
+
+.banner-contant p{
+    font-size: 12px;
+}
+.banner-contant h2{
+    font-size: 26px;
+}
+.banner-contant span{
+    font-size: 10px;
+}
+
+.banner-btn{
+    font-size: 10px;
+    justify-content: space-between;
+}
+.banner-btn button, btn-1 {
+    padding: 8px 12px;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid white;
+    color: #fff;
+    transition: .5s;
+}
+.banner-btn .btn-2 {
+    background-color: #0069A8 !important; 
+    border: 1px solid #0069A8;
+    color: #fff;
+    transition: .5s;
+}
+.banner-btn button:hover{
+    background-color: #0069A8;
+    border: 1px solid #0069A8;
+}
+
+.banner-btn .btn-2:hover {
+    background-color: transparent !important; 
+    border: 1px solid #ffffff;
+}

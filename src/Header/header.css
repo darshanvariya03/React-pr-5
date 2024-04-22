@@ -1,0 +1,19 @@
+.header{
+    color: #474747;
+    align-items: center;
+}
+p{
+    margin: 0%;
+    padding: 0%;
+}
+.header-num  p{
+    font-size: 9px;
+}
+.header-text{
+    font-size: 11px !important;
+}
+
+.logo h1{
+    font-style: italic;
+    font-size: 24px;
+}

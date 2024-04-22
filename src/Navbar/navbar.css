@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #0069A8;
+}
+
+.navbar-menu{
+    padding: 0%;
+    margin: 0%;
+}
+
+.navbar-menu li,a{
+    text-align: center;
+    font-size: 12px;
+    padding: 5px 10px ;
+    color: white !important;
+    transition: .5s;
+}
+.navbar-menu li a:hover{
+    color: #40B8FF !important;
+}
+.active{
+    color: #40B8FF !important;
+}
